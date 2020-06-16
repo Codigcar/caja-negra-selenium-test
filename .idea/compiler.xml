@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="caja-negra-selenium-test" />
         <module name="selenium-sem10" />
       </profile>
     </annotationProcessing>
